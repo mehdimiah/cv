@@ -6,4 +6,4 @@ it is not at all been optimised for mobiles, these are the next steps. this is o
 
 i plan to rereate this CV website, implementing bootstrap to make it mobile friendly.
 
-https://mehdimiah.github.io/cv/ 
+https://mehdimiah.github.io/cv-draft-website/
